@@ -1,0 +1,3 @@
+transformers
+confluent-kafka
+uuid
